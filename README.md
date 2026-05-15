@@ -1,5 +1,3 @@
-
-
 <!--# Hi, I'm Anish 👋
 
 💻 Java Full Stack Developer  
