@@ -1,4 +1,4 @@
-<!--# Hi, I'm Anish 👋
+# Hi, I'm Anish 👋
 
 💻 Java Full Stack Developer  
 🧪 Manual Testing Enthusiast  
